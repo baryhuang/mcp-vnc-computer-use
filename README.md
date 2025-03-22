@@ -4,6 +4,8 @@
 Support Any MacOS Version (If apple documentation doesn't lie)
 Apple authentication is hectic, you know them...you only other option is commercial closed-source RealVnc!
 
+**Literally FREE because you can use your Claude plan with this MCP. No extra API charges are required!**
+
 **No setup required on MacOs except for enabling sharing.**
 
 ## Why Critical
